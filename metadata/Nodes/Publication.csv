@@ -1,0 +1,11 @@
+property,type,description,example
+id,string,Unique identifier of a publication (priority doi > pubmedId > pmcId > url > other Id),doi:10.1017/ice.2021.59
+name,string,Title of publication,An Observational Laboratory-Based Assessment
+doi,string,DOI of publication,doi:10.15585
+url,string,URL of publication,https://doi.org/10.15585/mmwr.mm7008e2
+pubmedId,string,Pubmed identifier of publication,pubmed:33557960
+pmcId,string,Pubmed Central identifier of publication,pmc:PMC7948098
+journal,string,Name of journal,MSphere
+year,string,Year of publication,2022
+title,string,Title of publication,Clinical features of culture-proven Mycoplasma pneumoniae infections at King Abdulaziz University Hospital
+abstract,string,Abstract of publication,A newly emerged strain of SARS-CoV-2 of B.1.1.1

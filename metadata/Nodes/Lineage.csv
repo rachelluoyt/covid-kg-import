@@ -1,0 +1,5 @@
+property,type,description,example
+id,string,Unique identifier of lineage,B.1.1.529
+name,string,Name of lineage,B.1.1.529
+synonyms,string,Alternative names of lineages separated by vertical bar |,Omicron
+description,string,Details of the lineage,USA lineage

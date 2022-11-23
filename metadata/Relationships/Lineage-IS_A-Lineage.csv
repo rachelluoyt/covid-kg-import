@@ -1,0 +1,3 @@
+property,type,description,example
+from,string,Unique identifier of lineage,B.1.1.529
+to,object,Unique identifier of predecessor lineage,B.1.1
